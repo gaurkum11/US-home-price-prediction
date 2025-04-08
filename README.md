@@ -17,7 +17,9 @@ Data is sourced from the Federal Reserve Economic Data (FRED) https://fred.stlou
 9. Federal Housing Subsidies\
 10. Construction Material Price Index
 11. Real GDP per Capita
-Target Variable:
+
+
+    Target Variable:
 📈 S&P CoreLogic Case-Shiller U.S. National Home Price Index (CSUSHPISA)
 
 
